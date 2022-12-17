@@ -1,6 +1,6 @@
 # Export array bug MRP Godot
 
-A minimal reproduction project (MRP) for a Godot C# array export bug in.
+A minimal reproduction project (MRP) for a Godot C# array export bug.
 
 ## Steps to reproduce
 
